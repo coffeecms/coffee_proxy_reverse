@@ -1,7 +1,3 @@
-Here’s a detailed `README.md` for your reverse proxy management system in English: https://blog.lowlevelforest.com/
-
----
-
 # Reverse Proxy Management System
 
 ## Introduction
